@@ -1,3 +1,3 @@
-## GitLink lightning talk
+## GitLink - easy debugging NuGet packages
 
-The master branch contains the raw files for the presentation. Please go to the [gh-pages branch](../../) for deployed version.
+Lightning talk about [GitLink](https://github.com/CatenaLogic/GitLink)
